@@ -122,8 +122,16 @@ This project demonstrates how to build a language translation application using 
 
 ## How It Works
 
-1. **Input Text:** Enter the text you want to translate.
-2. **Source Language:** Enter the language code of the text (e.g., `en` for English).
+1. **Source Language:** Enter the language code of the text (e.g., `en` for English).
+   ![image](https://github.com/user-attachments/assets/1883d750-125e-4672-aed3-8b033d265844)
+   
 3. **Target Language:** Enter the language code you want to translate the text into (e.g., `es` for Spanish).
-4. **Translate:** Click the "Translate" button to see the translated text.
+   ![image](https://github.com/user-attachments/assets/3960e3a7-4173-451f-accc-16c30b1ecbe3)
+
+5. **Input Text:** Enter the text you want to translate.
+   ![image](https://github.com/user-attachments/assets/15753284-141e-44cd-a92f-370001448d6f)
+
+7. **Translate:** Click the "Translate" button to see the translated text.
+   ![image](https://github.com/user-attachments/assets/e5a0b3e5-460f-46a4-927b-e9ed48172a8e)
+
 
